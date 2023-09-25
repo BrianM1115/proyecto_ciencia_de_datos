@@ -24,6 +24,7 @@ Puedes utilizar tanto Google Colab  y JupyterNotebook para ejecutar cada uno de 
 Si deseas visualizar por ti mismo el despligue de este proyecto tienes 2 opciones:
 
 1. Visualizarlo desde la pagina de Tableau:
+
 Como este proyecto su despligue se realizo por Tableau te doy los 2 links para que los veas por ti mismo.
 
     [Datos Historicos 2010 - 2021](https://public.tableau.com/app/profile/brian.moreno/viz/DatoshistoricosBucaramanga2010-2021/DelitosenfestividadesporcomunasBucaramanga-2010-20211 "Datos Historicos 2010 - 2021")
