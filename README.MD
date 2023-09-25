@@ -1,6 +1,6 @@
 # Proyecto de ciencia de datos
 
-Este proyecto tiene la finalidad de: ** ESTIMAR ÍNDICES DE DELINCUENCIA COMÚN POR COMUNA EN EL MUNICIPIO DE BUCARAMANGA Y PREDECIR INCREMENTOS DE DELITOS EN FECHAS FESTIVAS EN EL MUNICIPIO PARA DAR RESPUESTA A LA POSIBLE FLUCTUACIÓN DE CASOS DELICTIVOS:** 
+Este proyecto tiene la finalidad de: **ESTIMAR ÍNDICES DE DELINCUENCIA COMÚN POR COMUNA EN EL MUNICIPIO DE BUCARAMANGA Y PREDECIR INCREMENTOS DE DELITOS EN FECHAS FESTIVAS EN EL MUNICIPIO PARA DAR RESPUESTA A LA POSIBLE FLUCTUACIÓN DE CASOS DELICTIVOS:** 
 
 Para su desarrollo, se tomo un dataset historico publico que contiene la cantidad de delitos que se presentaron en Bucaramanga, Colombia desde el 2010 - 2021. En base a esto, se tomo la iniciativa de comprobar e identificar como funcionaba la estructura delictiva en fechas festivas del mismo rango de años, generando toda la estructura que contiene este proyecto para poder hacer predicciones tanto de la cantidad y conducta delictiva en el año 2023.
 
