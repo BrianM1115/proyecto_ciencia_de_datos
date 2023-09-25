@@ -1,0 +1,11 @@
+Los notebooks del 1, 2, 3 y 4 fueron realizados en Google Colab. El nootbook "Mapeo Por Coropletas" se realizo en Jupyter Notebook por las limitaciones de procesamiento de Google Colab 
+
+Tambien para georeferenciar capas en Qgis se utilizaron mapas de la pagina de la DIAN con las siguientes denominaciones : 
+
+MGN2021_00_COLOMBIA
+MGN2021_DPTO_POLITICO
+MGN2021_MPIO_POLITICO
+MGN2021_URB_AREA_CENSAL
+MGN2021_URB_MANZANA
+MGN2021_URB_SECCION
+MGN2021_URB_SECTOR
