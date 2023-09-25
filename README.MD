@@ -1,6 +1,6 @@
-#Proyecto de ciencia de datos
+# Proyecto de ciencia de datos
 
-Este proyecto tiene la finalidad de: **** ESTIMAR ÍNDICES DE DELINCUENCIA COMÚN POR COMUNA EN EL MUNICIPIO DE BUCARAMANGA Y PREDECIR INCREMENTOS DE DELITOS EN FECHAS FESTIVAS EN EL MUNICIPIO PARA DAR RESPUESTA A LA POSIBLE FLUCTUACIÓN DE CASOS DELICTIVOS:**** 
+Este proyecto tiene la finalidad de: ** ESTIMAR ÍNDICES DE DELINCUENCIA COMÚN POR COMUNA EN EL MUNICIPIO DE BUCARAMANGA Y PREDECIR INCREMENTOS DE DELITOS EN FECHAS FESTIVAS EN EL MUNICIPIO PARA DAR RESPUESTA A LA POSIBLE FLUCTUACIÓN DE CASOS DELICTIVOS:** 
 
 Para su desarrollo, se tomo un dataset historico publico que contiene la cantidad de delitos que se presentaron en Bucaramanga, Colombia desde el 2010 - 2021. En base a esto, se tomo la iniciativa de comprobar e identificar como funcionaba la estructura delictiva en fechas festivas del mismo rango de años, generando toda la estructura que contiene este proyecto para poder hacer predicciones tanto de la cantidad y conducta delictiva en el año 2023.
 
@@ -20,7 +20,7 @@ Dentro de este, debe correr la estructura tal cual como son indicados:
 
 Puedes utilizar tanto Google Colab  y JupyterNotebook para ejecutar cada uno de los archivos :tw-1f609:
 
-#Despliegue
+# Despliegue
 Si deseas visualizar por ti mismo el despligue de este proyecto tienes 2 opciones:
 
 1. Visualizarlo desde la pagina de Tableau:
