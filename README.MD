@@ -16,9 +16,9 @@ Dentro de este, debe correr la estructura tal cual como son indicados:
 - _3_Preparando_El_Modelo_De_Prediccion.ipynb
 - _4_Prediciendo_Datos.ipynb
 
-> Cada notebook debe correrse con los datasets correctos que se pueden visualizar desde la carpeta DataSet
+> Cada notebook debe correrse con los datasets correctos que se pueden visualizar desde la carpeta DataSet.
 
-Puedes utilizar tanto Google Colab  y JupyterNotebook para ejecutar cada uno de los archivos :tw-1f609:
+Puedes utilizar tanto Google Colab  y JupyterNotebook para ejecutar cada uno de los archivos.
 
 # Despliegue
 Si deseas visualizar por ti mismo el despligue de este proyecto tienes 2 opciones:
@@ -27,12 +27,12 @@ Si deseas visualizar por ti mismo el despligue de este proyecto tienes 2 opcione
 Como este proyecto su despligue se realizo por Tableau te doy los 2 links para que los veas por ti mismo.
 
     [Datos Historicos 2010 - 2021](https://public.tableau.com/app/profile/brian.moreno/viz/DatoshistoricosBucaramanga2010-2021/DelitosenfestividadesporcomunasBucaramanga-2010-20211 "Datos Historicos 2010 - 2021")
-  [Predicciones 2023](https://public.tableau.com/app/profile/brian.moreno/viz/Prediccionesdelictivas-Bucaramanga2023/DelitosenfestividadesporcomunasBucaramanga-2023 "Predicciones 2023")
+    [Predicciones 2023](https://public.tableau.com/app/profile/brian.moreno/viz/Prediccionesdelictivas-Bucaramanga2023/DelitosenfestividadesporcomunasBucaramanga-2023 "Predicciones 2023")
   
 2. Si tienes Tableau en tu computadora lo que debes hacer:
 - Abrir Datos_historicos_Bucaramanga_2010_-_2021.twb
-- Abrir Predicciones_delectiva_-_Bucaramanga_2023.twb
+- Abrir Predicciones_delictiva_-_Bucaramanga_2023.twb
 - Si no tiene la fuente de datos correcta en cada uno de estos archivos, toca subiarla desde Tableau
-- dfml.csv_Varias_conexiones.hyper esta es la fuente de dato para el Datos_historicos
-- df_futuro_cantidad_sin_redondear.csv_Varias_conexiones.hyper es la fuente de datos para Predicciones_delectiva
+- dfml.csv_Varias_conexiones.hyper esta es la fuente de datos para el Datos_historicos
+- df_futuro_cantidad_sin_redondear.csv_Varias_conexiones.hyper es la fuente de datos para Predicciones_delictiva
 
